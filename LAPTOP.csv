@@ -1,0 +1,51 @@
+no,nama,tahun,harga,jenis,ram,rom
+1,Acer Aspire 5 ,2022,12000000,Manual,8,512
+2,Apple MacBook Air,2022,18000000,Manual,8,256
+3,ASUS ROG Zephyrus G14 ,2022,24000000,Manual,16,1000
+4,Dell Inspiron 15 ,2022,10000000,Manual,128,512
+5,HP Envy x360,2022,14000000,Manual,16,512
+6,Lenovo Yoga,2022,20000000,Manual,16,100
+7,Microsoft Surface Laptop 4 ,2022,22000000,Manual,16,512
+8,MSI Prestige 14 ,2022,16000000,Automatic,16,512
+9,Samsung Galaxy Book Flex,2022,19000000,Manual,9,512
+10,Acer Predator Helios 300 ,2022,20000000,Manual,16,512
+11,Apple MacBook Pro 16,2022,31000000,Semi-Auto,16,512
+12,ASUS VivoBook S15,2022,12000000,Manual,8,512
+13,Dell XPS 15 ,2022,20000000,Manual,16,512
+14,HP Spectre x360 ,2022,19000000,Manual,16,512
+15,Lenovo Legion 5,2022,17000000,Manual,16,512
+16,Microsoft Surface Pro 7,2022,14000000,Manual,8,512
+17,MSI GS75 Stealth,2022,32000000,Manual,32,512
+18,Samsung Notebook 9 Pro ,2022,18000000,Manual,16,512
+19,Acer Nitro 5,2022,15000000,Manual,16,512
+20,Apple MacBook Pro 13 M1,2022,22000000,Manual,16,512
+21,ASUS TUF Gaming A15,2022,14000000,Semi-Auto,16,512
+22,Dell G5 15,2022,16000000,Manual,16,512
+23,HP Omen 15,2022,19000000,Manual,16,512
+24,Lenovo IdeaPad 5 ,2022,11000000,Manual,8,512
+25,Microsoft Surface Laptop Go ,2022,9000000,Manual,8,512
+26,MSI GE66 Raider,2022,34000000,Manual,32,512
+27,Samsung Odyssey G7,2022,21000000,Manual,16,512
+28,Acer TravelMate P6 ,2022,18000000,Manual,16,512
+29,Apple iMac 27,2022,32000000,Automatic,16,512
+30,ASUS ZenBook 14 ,2022,16000000,Automatic,16,512
+31,Dell XPS 17,2022,24000000,Manual,32,512
+32,HP Pavilion Gaming 15 ,2022,13000000,Manual,16,512
+33,Lenovo ThinkPad X1 Carbon,2022,22000000,Manual,16,512
+34,Microsoft Surface Pro X,2022,20000000,Semi-Auto,16,512
+35,MSI Creator 15 ,2022,23000000,Manual,32,512
+36,Samsung Galaxy Book S,2022,15000000,Manual,8,512
+37,Acer Chromebook Spin 13,2022,9000000,Manual,8,512
+38,Apple MacBook Pro 14 ,2022,28000000,Manual,16,512
+39,ASUS VivoBook Flip 14,2022,10000000,Manual,8,512
+40,Dell Latitude 14,2022,15000000,Automatic,16,512
+41,HP Spectre x360 14 ,2022,21000000,Semi-Auto,16,512
+42,Lenovo ThinkBook 13s,2022,13000000,Manual,16,512
+43,Microsoft Surface Laptop Studio,2022,29000000,Manual,32,512
+44,MSI Stealth 15M ,2022,17000000,Automatic,16,512
+45,Samsung Galaxy Chromebook 2 ,2022,11000000,Manual,8,512
+46,Acer Predator Triton 500 ,2022,26000000,Manual,32,512
+47,Apple MacBook Pro 16 M1 ,2022,35000000,Semi-Auto,32,512
+48,ASUS ROG Strix G17,2022,18000000,Manual,16,512
+49,Dell Precision 15,2022,30000000,Manual,32,512
+50,HP Elite Dragonfly ,2022,23000000,Automatic,16,512
